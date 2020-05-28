@@ -2,6 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project setup
+
+IDE: [VSCode](https://code.visualstudio.com/)
+
+```bash
+npm install
+npm i bootstrap
+```
+
+## Project Preview
+
+Simple Login with only react font-end<br />
+username: daopm<br />
+password: pass
+
 ## Available Scripts
 
 In the project directory, you can run:
